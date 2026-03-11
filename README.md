@@ -28,7 +28,17 @@ The dashboard provides several important analytical insights, including:
 - Distribution of rides by vehicle type  
 - Ride demand patterns across different periods  
 - Key performance indicators related to ride activity  
+## Key Performance Indicators (KPIs)
 
+The dashboard highlights several key metrics including:
+
+- Total Bookings
+- Average Distance per Ride
+- Total Revenue
+- Completed vs Cancelled Rides
+- Customer Ratings
+- Driver Ratings
+  
 ## Tools & Technologies Used
 
 This project was developed using several data analysis and visualization tools to transform raw Uber ride data into meaningful business insights.
