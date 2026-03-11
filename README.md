@@ -19,15 +19,7 @@ The main objectives of this project include:
 - Evaluating revenue performance related to ride bookings  
 - Identifying ride demand patterns  
 - Building an interactive dashboard that simplifies data analysis and business insights  
-
-## Key Insights
-The dashboard provides several important analytical insights, including:
-
-- Total number of bookings  
-- Revenue trends over time  
-- Distribution of rides by vehicle type  
-- Ride demand patterns across different periods  
-- Key performance indicators related to ride activity  
+ ى 
 ## Key Performance Indicators (KPIs)
 
 The dashboard highlights several key metrics including:
