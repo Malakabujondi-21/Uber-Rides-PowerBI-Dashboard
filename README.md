@@ -4,7 +4,11 @@ This project presents an interactive dashboard developed using Power BI to analy
 
 ## Project Overview
 This project focuses on analyzing Uber ride data to better understand user behavior and ride demand patterns. The dashboard displays key performance indicators (KPIs) in a clear and visual format that helps support data-driven decision making.
+### Main Dashboard
+![Dashboard2](Dashboard.png)
 
+### Uber Dashboard
+![Uber Dashboard1](Uber%20dashboard%20.png)
 Through this dashboard, users can explore ride data, identify important patterns, and gain valuable insights such as demand trends, vehicle type performance, and booking patterns over time.
 
 ## Project Objectives
